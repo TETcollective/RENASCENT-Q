@@ -2,6 +2,10 @@
 "Numerical evidence and QuTiP simulations for RENASCENT-Q extension of TET–CVTL framework: retrocausal negentropy, topological lattice stabilization, weak values in TSVF, and embodied quantum dynamics in quantum biology and longevity."
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18502889.svg)](https://doi.org/10.5281/zenodo.18502889)  
+Archive on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18502889.svg)](https://doi.org/10.5281/zenodo.18502889) • GitHub: [TETcollective/RENASCENT-Q](https://github.com/TETcollective/RENASCENT-Q)
+
+
 # RENASCENT-Q  
 Numerical Evidence for Retrocausal Negentropic Effects, Topological Lattice Stabilization, and Convergence Dynamics in Embodied Quantum Systems  
 
