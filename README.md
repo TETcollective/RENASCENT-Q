@@ -30,9 +30,9 @@ Non includo script Python standalone (QuTiP) qui – sono incorporati nel LaTeX 
 
 
 @misc{soliman2026renascentq,
-  author       = {Symon Zu},
+  author       = {Simon Soliman},
   title        = {RENASCENT-Q: Extension of the TET–CVTL Framework – Numerical Evidence for Retrocausal Negentropic Effects...},
   year         = {2026},
-  howpublished = {\url{https://github.com/[tuo-username]/renascent-q}},
+  howpublished = {\url{https://github.com/[TETcollective]/renascent-q}},
   note         = {Preprint}
 }
