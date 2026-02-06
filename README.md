@@ -27,3 +27,12 @@ Le simulazioni dimostrano:
 Non includo script Python standalone (QuTiP) qui – sono incorporati nel LaTeX per riproducibilità contestuale.
 
 ## Struttura del Repository  
+
+
+@misc{soliman2026renascentq,
+  author       = {Symon Zu},
+  title        = {RENASCENT-Q: Extension of the TET–CVTL Framework – Numerical Evidence for Retrocausal Negentropic Effects...},
+  year         = {2026},
+  howpublished = {\url{https://github.com/[tuo-username]/renascent-q}},
+  note         = {Preprint}
+}
