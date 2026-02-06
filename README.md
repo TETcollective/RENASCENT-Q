@@ -41,7 +41,8 @@ Non includo script Python standalone (QuTiP) qui – sono incorporati nel LaTeX 
   title        = {RENASCENT-Q: Extension of the TET--CVTL Framework -- Numerical Evidence for Retrocausal Negentropic Effects, Topological Lattice Stabilization, and Convergence Dynamics in Embodied Quantum Systems},
   year         = {2026},
   month        = feb,
-  howpublished = {\url{https://github.com/[TETcollective]/renascent-q}},
-  note         = {Preprint, available at: \url{https://github.com/[TETcollective]/renascent-q}. ORCID: 0009-0002-3533-3772},
+  doi          = {10.5281/zenodo.18502889},
+  url          = {https://doi.org/10.5281/zenodo.18502889},
+  note         = {Preprint, archived at Zenodo. GitHub: https://github.com/TETcollective/RENASCENT-Q},
   license      = {CC BY-NC-ND 4.0}
 }
