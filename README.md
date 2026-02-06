@@ -7,7 +7,7 @@ Numerical Evidence for Retrocausal Negentropic Effects, Topological Lattice Stab
 
 Extension of the TET–CVTL Theoretical Framework  
 
-**Autore:** Symon Zu (@PhysSoliman)  
+**Autore:** Simon Soliman (@PhysSoliman)  
 **Versione:** Preprint numerical 2026  
 **Data:** Febbraio 2026  
 
@@ -26,13 +26,18 @@ Le simulazioni dimostrano:
 
 Non includo script Python standalone (QuTiP) qui – sono incorporati nel LaTeX per riproducibilità contestuale.
 
-## Struttura del Repository  
+## Tetcollective.org
 
+## How to Cite
 
-@misc{soliman2026renascentq,
+```bibtex
+@misc{soliman2026renascent-q,
   author       = {Simon Soliman},
-  title        = {RENASCENT-Q: Extension of the TET–CVTL Framework – Numerical Evidence for Retrocausal Negentropic Effects...},
+  author+an    = {1=orcid:0009-0002-3533-3772},
+  title        = {RENASCENT-Q: Extension of the TET--CVTL Framework -- Numerical Evidence for Retrocausal Negentropic Effects, Topological Lattice Stabilization, and Convergence Dynamics in Embodied Quantum Systems},
   year         = {2026},
+  month        = feb,
   howpublished = {\url{https://github.com/[TETcollective]/renascent-q}},
-  note         = {Preprint}
+  note         = {Preprint, available at: \url{https://github.com/[TETcollective]/renascent-q}. ORCID: 0009-0002-3533-3772},
+  license      = {CC BY-NC-ND 4.0}
 }
